@@ -1,5 +1,5 @@
 body {
-    background: rgb(1, 1, 72);
+    background: rgb(7, 7, 7);
   }
 
 header {
@@ -30,7 +30,7 @@ font-style: italic;
 }
 
 .left-links a {
-  color:darkgoldenrod;
+  color:rgb(11, 25, 184);
   text-decoration: none;
   padding: 20px;
   font-size: 16px;
@@ -43,4 +43,28 @@ font-style: italic;
 .left-links a:hover {
   text-decoration: underline;
   background-color: red;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+thead {
+  background-color: white;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+td {
+  color: red;
+}
+
+th {
+  font-weight: bold;
 }
