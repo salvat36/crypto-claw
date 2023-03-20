@@ -1,5 +1,5 @@
 
-window.addEventListener("DOMContentLoaded", function() {
+/* window.addEventListener("DOMContentLoaded", function() {
     const welcomeMessages = [
         { name: "Ryan", message: "Welcome Master Ryan" },
         { name: "Matt", message: "Eyoo Samsquanch" },
@@ -20,4 +20,4 @@ window.addEventListener("DOMContentLoaded", function() {
       
       const welcomeMessageElement = document.getElementById("welcome-message");
       welcomeMessageElement.innerHTML = message;
-  });
+  }); */
