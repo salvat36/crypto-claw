@@ -1,9 +1,9 @@
 
 /* window.addEventListener("DOMContentLoaded", function() {
     const welcomeMessages = [
-        { name: "Ryan", message: "Welcome Master Ryan" },
-        { name: "Matt", message: "Eyoo Samsquanch" },
-        { name: "Lee", message: "Poopie Pants in the house" }
+        { name: "Ryan", message: "Welcome Sir Master Ryan!" },
+        { name: "Matt", message: "Eyoo Samsquanch has landed!" },
+        { name: "Lee", message: "Lanky Box Fanatic in the house!" }
       ];
       
       const userName = prompt("Halt! Who goes there?:");
